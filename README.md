@@ -1,12 +1,21 @@
+## Описание программы
+
 Дана таблица контактов, которая имеет колонки: id; ФИО; e-mail; телефон; адрес.
 
 Каждый контакт можно удалить, нажав на checkbox справа от контакта и нажав кнопку "Удалить"
 
 Добавить значения в таблицу можно через форму, которая открывается в модальном окне, по нажатию на кнопку "Добавить запись". Все поля формы обязательны.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Запуск программы 
+
+`npm run deps:all` (устанавливаем зависимости)
+
+`npm start` (запуск программы)
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
