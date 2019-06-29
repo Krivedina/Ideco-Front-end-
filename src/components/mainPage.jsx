@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import './App.css';
-import ModalWindow from "./components/modalWindow";
-import ContactHeader from "./components/contactHeader";
+import '../App.css';
+import ModalWindow from "./modalWindow";
+import ContactHeader from "./contactHeader";
 
 
 export default class MainPage extends Component {
